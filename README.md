@@ -3,6 +3,9 @@
   `npm install semantic-ui --save`
   `npm install jquery --save`
   If you Create Separete Project Must Use above commands
+ScreenShot My Project
+![alt text](https://github.com/SUDOARSDEV/Semantic-UI/blob/master/src/assets/s1.png)
+![alt text](https://github.com/SUDOARSDEV/Semantic-UI/blob/master/src/assets/s2.png)
 
 # Semantic
 
