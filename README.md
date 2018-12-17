@@ -1,7 +1,10 @@
 # Commands In Terminal
   `cd semantic`
-  `npm install semantic-ui --save`
-  `npm install jquery --save`
+  <br />
+  `npm install semantic-ui --save`.
+  <br />
+  `npm install jquery --save`.
+  <br />
   If you Create Separete Project Must Use above commands
 ScreenShot My Project
 ![alt text](https://github.com/SUDOARSDEV/Semantic-UI/blob/master/src/assets/s1.png)
