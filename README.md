@@ -1,3 +1,9 @@
+# Commands In Terminal
+  `cd semantic`
+  `npm install semantic-ui --save`
+  `npm install jquery --save`
+  If you Create Separete Project Must Use above commands
+
 # Semantic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
